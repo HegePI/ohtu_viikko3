@@ -1,0 +1,9 @@
+*/build/
+*/.gradle
+*/bin/
+*/.vscode
+*/.classpath
+*/.project
+*/.settings/
+
+WebLogin/salasanat.txt
